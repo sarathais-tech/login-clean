@@ -44,7 +44,7 @@ login-clean/
 ## ▶️ Como executar
 
 1. Baixe ou clone o repositório:
-git clone https://github.com/SEU-USUARIO/login-clean.git
+git clone https://github.com/sarathais-tech/login-clean.git
 
 2. Abra a pasta no VSCode
 
