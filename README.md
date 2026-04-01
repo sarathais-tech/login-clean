@@ -84,7 +84,7 @@ Senha: 1234
 
 ## 📸 Preview
 
-*![alt text](image.png)*
+*![alt text](image-1.png)*
 
 ---
 
